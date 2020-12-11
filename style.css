@@ -58,7 +58,7 @@ ul.hmenu a {
    display: block;
 }
 ul.hmenu a:hover {
-   background-color: white; /* メニュー項目にマウスが載ったときの背景色(淡いピンク) */
+   background-color: white;
    color: #0000DD;
 }
 
